@@ -27,11 +27,11 @@ In this project you will fix a broken version of a responsive website called Fot
 
 Broken Mobile Site:
 
-![Broken Mobile Site](resources/images/broken-mobile.png)
+![Broken Mobile Site](resources/images/ broken-mobile.png) ![Fixed Mobile Site](resources/images/finished-mobile.png)
 
 Fixed Mobile Site:
 
-![Fixed Mobile Site](resources/images/finished-mobile.png)
+
 
 Broken Main Site:
 
