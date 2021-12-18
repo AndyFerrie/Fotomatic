@@ -31,7 +31,7 @@ Broken Mobile Site:
 
 Fixed Mobile Site:
 
-![Fixed Mobile Site](.resources/images/Finished Mobile.png)
+![Fixed Mobile Site](./resources/images/Finished Mobile.png)
 
 Broken Main Site:
 
