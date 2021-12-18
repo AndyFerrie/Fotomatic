@@ -27,19 +27,19 @@ In this project you will fix a broken version of a responsive website called Fot
 
 Broken Mobile Site:
 
-![Broken Mobile Site](.resources/images/Screenshot Broken Mobile.png)
+![Broken Mobile Site](resources/images/broken-mobile.png)
 
 Fixed Mobile Site:
 
-![Fixed Mobile Site](./resources/images/Finished Mobile.png)
+![Fixed Mobile Site](resources/images/finished-mobile.png)
 
 Broken Main Site:
 
-![Broken Main Site](.resources/images/Screenshot Broken.png)
+![Broken Main Site](resources/images/main-broken.png)
 
 Fixed Main Site:
 
-![Fixed Main Site](.resources/images/Finished Full Page.png)
+![Fixed Main Site](resources/images/finished-full-page.png)
 
 ### Links
 
@@ -50,6 +50,8 @@ Fixed Main Site:
 ### What I learned
 
 This is my first time converting pixels to rems. I learned about break points for different screen sizes. In the spec there was a cta button in the tablet sized site but the nav menu broke before reaching mobile dimensions so I used the mobile menu in the tablet size. When checking Codecademys final solution I see they did the same.
+
+Moreover, I had some trouble syncing from VS code to Github. I deleted the repository on Github and renamed the project folder but then whenever I opened the new folder it was trying to sync to the deleted repository. I learned that there is a hidden git folder that you need to delete and then you can create a new repository.
 
 ### Continued development
 
