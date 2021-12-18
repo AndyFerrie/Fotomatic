@@ -206,6 +206,9 @@ header .desktop .button {
 }
 
 @media only screen and (max-width: 480px) {
+  #sign-up-cta {
+    padding: 0;
+  }
   #sign-up-section {
     height: 20rem;
   }

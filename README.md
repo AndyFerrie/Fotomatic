@@ -55,7 +55,7 @@ Moreover, I had some trouble syncing from VS code to Github. I deleted the repos
 
 ### Continued development
 
-I need more practive with responsice design.
+I need more practice with responsive design.
 
 ### Useful resources
 
